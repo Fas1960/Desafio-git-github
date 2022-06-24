@@ -47,5 +47,7 @@ Control L limpa a tela
 
 ​		git pull origin master - puxa do github para o computador
 
-​		git clone "endereço copiado do git hub" clona o hub
+​		git clone "endereço copiado do git hub" clona o hub, ou seja gera uma copia
+
+
 
